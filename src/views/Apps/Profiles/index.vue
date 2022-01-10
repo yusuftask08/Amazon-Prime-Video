@@ -10,7 +10,7 @@
         <span class="text-white font-weight-bold h2">Kim izliyor?</span>
       </div>
       <div class="user d-flex justify-content-center">
-        <router-link to="/">
+        <router-link to="/" style="text-decoration: none">
           <div class="user-image d-flex flex-column align-items-center">
             <img
               src="https://m.media-amazon.com/images/G/02/CerberusPrimeVideo-FN38FSBD/adult-1.png"
@@ -19,9 +19,8 @@
             <span class="user-name text-white mt-2 font-weight-bolder h5">{{
               name
             }}</span>
-          </div></router-link
-        >
-
+          </div>
+        </router-link>
         <div class="user-image d-flex flex-column align-items-center ml-4">
           <button
             type="button"

@@ -304,12 +304,7 @@ export default {
     };
   },
   methods: {
-    // logout() {
-    //   console.log("logout calıstı");
-    //   this.$store.commit(LOGOUT);
-    // },
     sendGenreData(e) {
-      console.log(`e`, e);
       localStorage.setItem("category-name", e.name);
       this.$store.dispatch(GENRE_ID_GET_MOVIES, e).then((_) => {
         this.$router.push({ path: `/search/${e.name}` });

@@ -8,7 +8,6 @@ Vue.config.productionTip = false
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import VueYoutube from 'vue-youtube'
 
-
 Vue.use(VueYoutube)
 Vue.use(VueAwesomeSwiper)
 new Vue({

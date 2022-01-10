@@ -8,7 +8,6 @@ import TV from "../views/Apps/TV/index.vue"
 import Movies from "../views/Apps/Movies/index.vue"
 import WatchList from "../views/Apps/WatchList/index.vue"
 import Profiles from "../views/Apps/Profiles/index.vue"
-// import store from "../store/index",
 import JwtService from "@/common/jwt.service";
 Vue.use(VueRouter)
 

@@ -1,6 +1,5 @@
 import axios from "axios";
 import {
-
     WL_API
 } from "../common/config";
 import {

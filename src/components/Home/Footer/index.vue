@@ -62,7 +62,6 @@ html ul {
 .pv-footer {
   position: static;
   bottom: 0;
-  /* top: 155%; */
   font-size: 15px;
   line-height: 20px;
   text-align: center;

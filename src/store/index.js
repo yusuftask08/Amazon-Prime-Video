@@ -6,7 +6,6 @@ import watchList from "./watchList.module"
 
 Vue.use(Vuex)
 
-
 export default new Vuex.Store({
     state: {},
     mutations: {},
