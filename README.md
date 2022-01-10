@@ -1,2 +1,19 @@
-# Amazon-prime-video-clone
-The repository contains the clone of the application with millions of active users in real life.
+# vue-amazon-prime-clone
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

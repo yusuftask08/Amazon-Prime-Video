@@ -1,0 +1,13 @@
+export const LOGIN = "login";
+export const MOVIE_POPULAR_RATED = "moviePopularRated";
+export const TV_POPULAR_RATED = "tvPopularRated"
+export const MOVIE_GENRE_LIST = "movieGenreList"
+export const GENRE_ID_GET_MOVIES = "genreIdGetMovies"
+export const MOVIE_ID_DETAILS = "movieIdDetail"
+export const GET_CATEGORY_MOVIES = "getCategoryMovies"
+export const GET_CATEGORY_TV = "getCategoryTv"
+export const SEARCH_QUERY = "searchQuery"
+export const WATCH_LIST_ADD = "watchListAdd"
+export const WATCH_LIST_DELETE = "watchListDelete"
+export const WATCH_LIST_GET = "watchListGet"
+export const MOVIE_ID_INFO_DETAILS = "movieIdInfoDetails"
