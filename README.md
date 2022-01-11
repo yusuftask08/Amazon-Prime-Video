@@ -1,6 +1,6 @@
-  <h1 align="center">Vue.js-amazon-prime-video-clone <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazon.svg" alt="www.amazon.com" height="30" width="40" /></h1>
- <h4 align="center">Depo, gerçek hayatta milyonlarca aktif kullanıcısı olan uygulamanın klonunu içerir.</h4>
-<h4 align="center">The repository contains the clone of the application with millions of active users in real life.</h4>
+  <h1 align="center">Vue.js-amazon-prime-video-clone <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazon.svg" alt="www.amazon.com" height="30"    width="40" /></h1>
+  <h4 align="center">Repo, gerçek hayatta milyonlarca aktif kullanıcısı olan uygulamanın klonunu içerir.</h4>
+  <h4 align="center">The repository contains the clone of the application with millions of active users in real life.</h4>
  
  
 <img src="login.png" width="450"  alt="https://www.youtube.com/watch?v=9jEGqqDtWrE" /> <img src="home.png" width="450"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
