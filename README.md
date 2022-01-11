@@ -3,9 +3,9 @@
   <h4 align="center">The repository contains the clone of the application with millions of active users in real life.</h4>
  
  
-<img src="login.png" width="450"  alt="https://www.youtube.com/watch?v=9jEGqqDtWrE" /> <img src="home.png" width="450"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
-<img src="navbar.png" width="450"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE" /> <img src="watch-list.png" width="450"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
-<img src="who-is-watch.png" width="450"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> <img src="search.png" width="450"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
+<img src="login.png" width="400"  alt="https://www.youtube.com/watch?v=9jEGqqDtWrE" /> <img src="home.png" width="400"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
+<img src="navbar.png" width="400"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE" /> <img src="watch-list.png" width="400"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
+<img src="who-is-watch.png" width="400"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> <img src="search.png" width="400"  href="https://www.youtube.com/watch?v=9jEGqqDtWrE"/> 
 
 ##  <h3 align="center">Projemi geliştirmeye devam etmekteyim bu süreçte yardımcı olmaktan çekinmeyin aşağıdaki adreslerden bana ulaşabilirsiniz.</h3>
 ##  <h3 align="center">I am continue to develop my project from different addresses below to assist me in this process.<a href="https://linkedin.com/in/yusuftaskiran08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/yusuftaskiran08" height="30" width="40" /></a></h3>
