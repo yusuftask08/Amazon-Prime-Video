@@ -10,7 +10,6 @@
     <div class="d-flex flex-row justify-content-center">
       <div class="row">
         <div class="col-md">
-          <!-- Card -->
           <form>
             <div class="sign-in">
               {{ title }}
@@ -110,11 +109,9 @@
               </button>
             </div>
           </form>
-          <!-- Card -->
         </div>
       </div>
     </div>
-    <!--Footer-->
     <div class="a-divider-inner mt-4" />
     <div class="d-flex justify-content-center footer">
       <div>
@@ -132,7 +129,6 @@
         </div>
       </div>
     </div>
-    <!-- Footer -->
   </div>
 </template>
 
