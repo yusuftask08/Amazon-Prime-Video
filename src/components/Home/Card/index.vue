@@ -102,7 +102,6 @@ import {
   WATCH_LIST_DELETE,
 } from "@/store/actions.type";
 import { mapGetters } from "vuex";
-import TrailerVideo from "@/components/Home/TrailerVideo/index.vue";
 
 export default {
   name: "card",
@@ -110,7 +109,6 @@ export default {
   components: {
     Swiper,
     SwiperSlide,
-    TrailerVideo,
   },
   data() {
     return {

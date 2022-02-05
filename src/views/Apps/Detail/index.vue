@@ -108,11 +108,6 @@
           "
           alt="580489"
         />
-        <TrailerVideo
-          :videoId="trailerVideo"
-          @readyVideo="showVideo($event)"
-          v-show="showImgVideo"
-        />
       </div>
       <div class="divImage1"></div>
       <div class="info d-flex mt-5" style="width: 150%">
@@ -201,11 +196,9 @@
 import Card from "@/components/Home/Card/index.vue";
 import { MOVIE_ID_DETAILS, WATCH_LIST_ADD } from "@/store/actions.type";
 import { mapGetters } from "vuex";
-import TrailerVideo from "@/components/Home/TrailerVideo/index.vue";
 export default {
   components: {
     Card,
-    TrailerVideo,
   },
   data() {
     return {

@@ -9,7 +9,6 @@ import {
 } from "./actions.type";
 import {
     SET_TOKEN,
-    CLEAR_TOKEN,
 } from "./mutations.type";
 import axios from "axios";
 

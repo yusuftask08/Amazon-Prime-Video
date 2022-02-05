@@ -28,16 +28,8 @@
               "
             ></div>
           </div>
-          <div class="col-8"></div>
         </div>
-
-        <!-- <img
-          src="@/assets/prime.png"
-          style="width: 100%; height: 500px"
-          alt=""
-        /> -->
       </swiper-slide>
-
       <div class="swiper-button-prev" slot="button-prev"></div>
       <div class="swiper-button-next" slot="button-next"></div>
     </swiper>
