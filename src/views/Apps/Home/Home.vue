@@ -31,7 +31,7 @@ export default {
   },
   computed: {
     ...mapGetters({
-      popularMovieList: "setPopularMovieList",
+      popularMovieList: "getPopularMovieList",
     }),
   },
 };

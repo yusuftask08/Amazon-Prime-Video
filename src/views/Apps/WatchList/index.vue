@@ -148,8 +148,8 @@ export default {
   },
   computed: {
     ...mapGetters({
-      watchList: "setWatchList",
-      movieInfo: "setMovieInfo",
+      watchList: "getWatchList",
+      movieInfo: "getMovieInfo",
     }),
     isWatchList() {
       return this.watchList.length > 0;

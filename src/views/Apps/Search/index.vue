@@ -165,11 +165,11 @@ export default {
   },
   computed: {
     ...mapGetters({
-      movieInfo: "setMovieInfo",
-      genreIdMovies: "setGenreIdMovies",
-      searchData: "setSearchData",
-      query: "setQuery",
-      popularMovieList: "setPopularMovieList",
+      movieInfo: "getMovieInfo",
+      genreIdMovies: "getGenreIdMovies",
+      searchData: "getSearchData",
+      query: "getQuery",
+      popularMovieList: "getPopularMovieList",
     }),
     noData() {
       return this.searchData.length > 0;

@@ -29,14 +29,14 @@ export default {
   },
   computed: {
     ...mapGetters({
-      setTvTopRated: "setTvTopRated",
-      Comedy: "setComedy",
-      Action: "setAction",
-      Horror: "setHorror",
-      Thriller: "setThriller",
-      Crime: "setCrime",
-      Drama: "setDrama",
-      Adventure: "setAdventure",
+      setTvTopRated: "getTvTopRated",
+      Comedy: "getComedy",
+      Action: "getAction",
+      Horror: "getHorror",
+      Thriller: "getThriller",
+      Crime: "getCrime",
+      Drama: "getDrama",
+      Adventure: "getAdventure",
     }),
   },
   created() {

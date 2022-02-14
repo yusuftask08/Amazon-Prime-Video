@@ -33,7 +33,7 @@ export default {
   },
   computed: {
     ...mapGetters({
-      tvTopRated: "setTvTopRated",
+      tvTopRated: "getTvTopRated",
     }),
   },
 };

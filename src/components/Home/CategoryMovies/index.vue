@@ -45,14 +45,14 @@ export default {
   },
   computed: {
     ...mapGetters({
-      PopularMovieList: "setPopularMovieList",
-      Comedy: "setComedy",
-      Action: "setAction",
-      Horror: "setHorror",
-      Thriller: "setThriller",
-      Crime: "setCrime",
-      Drama: "setDrama",
-      Adventure: "setAdventure",
+      PopularMovieList: "getPopularMovieList",
+      Comedy: "getComedy",
+      Action: "getAction",
+      Horror: "getHorror",
+      Thriller: "getThriller",
+      Crime: "getCrime",
+      Drama: "getDrama",
+      Adventure: "getAdventure",
     }),
   },
 };

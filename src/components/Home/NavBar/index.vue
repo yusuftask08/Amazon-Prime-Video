@@ -325,7 +325,7 @@ export default {
   },
   computed: {
     ...mapGetters({
-      GenreList: "setGenreList",
+      GenreList: "getGenreList",
     }),
   },
   created() {

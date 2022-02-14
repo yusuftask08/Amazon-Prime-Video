@@ -1,4 +1,4 @@
-<template>
+get<template>
   <div>
     <div class="d-flex align-items-center" v-if="showSeeMore">
       <h2 class="title mt-4">{{ contentName }}</h2>
@@ -166,10 +166,10 @@ export default {
   },
   computed: {
     ...mapGetters({
-      movieInfo: "setMovieInfo",
-      trailerVideo: "setMovieInfoTrailer",
-      watchList: "setWatchList",
-      isAddWatchList: "setIsAddWatchList",
+      movieInfo: "getMovieInfo",
+      trailerVideo: "getMovieInfoTrailer",
+      watchList: "getWatchList",
+      isAddWatchList: "getIsAddWatchList",
     }),
   },
 

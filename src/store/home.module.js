@@ -63,73 +63,73 @@ const state = {
 };
 
 const getters = {
-    setPopularMovieList(state) {
+    getPopularMovieList(state) {
         return state.popularMovieList;
     },
-    setGenreList(state) {
+    getGenreList(state) {
         return state.genreList;
     },
-    setGenreIdMovies(state) {
+    getGenreIdMovies(state) {
         return state.genreIdMovies;
     },
-    setMovieDetail(state) {
+    getMovieDetail(state) {
         return state.movieDetail;
     },
-    setCast(state) {
+    getCast(state) {
         return state.cast;
     },
-    setDirector(state) {
+    getDirector(state) {
         return state.director;
     },
-    setMovieGenre(state) {
+    getMovieGenre(state) {
         return state.movieGenre;
     },
-    setSimilar(state) {
+    getSimilar(state) {
         return state.similarMovies;
     },
-    setProductionCompany(state) {
+    getProductionCompany(state) {
         return state.productionCompany
     },
-    setComedy(state) {
+    getComedy(state) {
         return state.comedy
     },
-    setAction(state) {
+    getAction(state) {
         return state.action
     },
-    setHorror(state) {
+    getHorror(state) {
         return state.horror
     },
-    setThriller(state) {
+    getThriller(state) {
         return state.thriller
     },
-    setCrime(state) {
+    getCrime(state) {
         return state.crime
     },
-    setDrama(state) {
+    getDrama(state) {
         return state.drama
     },
-    setAdventure(state) {
+    getAdventure(state) {
         return state.adventure
     },
-    setTrailerVideo(state) {
+    getTrailerVideo(state) {
         return state.video
     },
-    setSearchData(state) {
+    getSearchData(state) {
         return state.searchData
     },
-    setQuery(state) {
+    getQuery(state) {
         return state.query
     },
-    setTvTopRated(state) {
+    getTvTopRated(state) {
         return state.tvTopRated
     },
-    setMovieOrTv(state) {
+    getMovieOrTv(state) {
         return state.isMovieOrTv
     },
-    setMovieInfo(state) {
+    getMovieInfo(state) {
         return state.movieInfo
     },
-    setMovieInfoTrailer(state) {
+    getMovieInfoTrailer(state) {
         return state.videoInfo
     },
 
