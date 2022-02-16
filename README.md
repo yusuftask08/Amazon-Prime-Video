@@ -12,7 +12,7 @@
 
 
 
-## Features
+## Features 🎉
 - Firabase Auth
 - [x] Sign up
 - [x] Sign in
@@ -25,7 +25,7 @@
 - [x] Fully responsive movie or tv slider
 - [x] Add movie or tv to "my list"
 
-## Tech
+## Tech 💻
 - <a href="https://vuejs.org/"> Vue.js </a>
 - <a href="https://github.com/vuejs/vuex#readme"> Vuex </a>
 - <a href="https://mockapi.io/"> Mock api </a>
@@ -36,22 +36,22 @@
 - <a href="https://swiperjs.com/"> Swiper.Js </a>
 - <a href="https://www.themoviedb.org/"> The movie db api </a>
 
-## Project deploy
+## Project deploy 🛫
 
 - <a href="https://vue-amazon-prime-video-clone.vercel.app/login"> Vercel </a>
 - <a href="https://www.youtube.com/watch?v=9jEGqqDtWrE"> Youtube </a>
 
-## Project setup
+## Project setup 📦
 ```
 npm install
 ```
 
-## Compiles and hot-reloads for development
+## Compiles and hot-reloads for development 🏃
 ```
 npm run serve
 ```
 
-## Compiles and minifies for production
+## Compiles and minifies for production 🛬
 ```
 npm run build
 ```
